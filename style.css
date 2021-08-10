@@ -17,21 +17,27 @@ html, body {
     min-height: 100%;
   }
 
-  body {
-    background: url(/Users/alessandrachardon/Development/Code/learn-prework/PersonalWebsite/Photos/MemorialPark.jpg) center no-repeat;
+body {
+    background: url(./Photos/MemorialPark.jpg) center no-repeat;
     background-size: cover;
     background-attachment: fixed;
     
   }
 
-  #info {
+#info {
       padding: 20px;
       background: rgba(255,255,255,.85);
       
   }
 
-  #introduction {
+#introduction {
     padding: 20px;
     background: rgba(255,255,255,.85);
   }
 
+#buttons button{
+  padding: 10px;
+  margin: 30px;
+  color:black;
+  background: rgb(30, 156, 68)
+}
