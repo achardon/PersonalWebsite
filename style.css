@@ -24,20 +24,22 @@ body {
     
   }
 
-#info {
+#introduction, #info, #funFacts{
       padding: 20px;
       background: rgba(255,255,255,.85);
       
   }
 
-#introduction {
-    padding: 20px;
-    background: rgba(255,255,255,.85);
-  }
+#links {
+  padding: 20px;
+  margin: 10px;
+  color:rgb(30, 156, 68)
+}
 
-#buttons button{
+#button {
   padding: 10px;
   margin: 30px;
   color:black;
   background: rgb(30, 156, 68)
 }
+
