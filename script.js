@@ -14,7 +14,7 @@ function clickAlert() {
   alert('I was clicked!');
 }
 
-button.addEventListener('click', clickAlert());
+button.addEventListener('click', clickAlert);
 
 //Clicking on buttons turns them different color
 const input = document.getElementById('button');
@@ -24,3 +24,11 @@ function clickButtonColorChange() {
 }
 
 input.addEventListener('click', clickButtonColorChange);
+
+
+<a href ="#introduction">Introduction</a>
+
+
+<p id="tips">Useful Tips Section</p>
+<a href="#tips">Jump to the Useful Tips Section</a>
+

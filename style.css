@@ -24,16 +24,21 @@ body {
     
   }
 
-#introduction, #info, #funFacts{
+#introduction, #info, #funFacts, #education{
       padding: 20px;
-      background: rgba(255,255,255,.85);
-      
+      background: rgba(255, 255, 255, 0.973);
+      width:fit-content;
+      margin-left: auto;
+      margin-right: auto;
+      max-width: 1000px;
   }
 
 #links {
   padding: 20px;
-  margin: 10px;
   color:rgb(30, 156, 68)
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
 }
 
 #button {
