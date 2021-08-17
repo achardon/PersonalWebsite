@@ -2,10 +2,12 @@
 
 h1 {
     text-align: center;
-    background-color: rgb(248, 246, 246);
-    color:rgb(17, 131, 184);
-    width: 100%;
-    padding: 10px;
+    color:rgb(207, 163, 97);
+    width: fit-content;
+  
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 80px;
 }
 
 h2 {
